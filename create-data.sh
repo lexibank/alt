@@ -11,7 +11,7 @@ echo "@book{tuscan, author={+++}, year={+++}}" > raw/sources.bib
 
 # run catconfig (installing glottolog, concepticon, etc. in one place)
 #
-pip insall -e .
+pip install -e .
 cldfbench catconfig 
 
 # map concepts to concepticon 
