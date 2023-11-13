@@ -1,8 +1,8 @@
 {
     "id": "tuscandialects",
-    "title": "CLDF dataset derived +++ from +++",
+    "title": "CLDF dataset derived Giacomelli et al.'s \"Atlante Lessicalo Toscano\" from 2000",
     "license": "CC-BY-4.0",
-    "url": "+++",
-    "citation": "Giacomelli, G., Agostiniani, L., Bellucci, P., Giannelli, L., Montemagni, S., Nesi, A., Paoli, M., Picchi, E., and Poggi Salani, T. (eds) (2000). _Atlante Lessicale Toscano_, Roma: Lexis Progetti Editoriali.",
+    "url": "http://serverdbt.ilc.cnr.it/ALTWEB/",
+    "citation": "Giacomelli, G., Agostiniani, L., Bellucci, P., Giannelli, L., Montemagni, S., Nesi, A., Paoli, M., Picchi, E., and Poggi Salani, T. (eds) (2000). Atlante Lessicale Toscano. Roma: Lexis Progetti Editoriali.",
     "conceptlist": ""
 }
