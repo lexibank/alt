@@ -1,5 +1,5 @@
 {
-    "title": "CLDF dataset derived +++ from +++",
+    "title": "CLDF dataset derived Giacomelli et al.'s \"Atlante Lessicalo Toscano\" from 2000",
     "access_right": "open",
     "keywords": [
         "cldf:Wordlist",
@@ -13,7 +13,7 @@
         }
     ],
     "upload_type": "dataset",
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>+++</p>\n</blockquote>",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Giacomelli, G., Agostiniani, L., Bellucci, P., Giannelli, L., Montemagni, S., Nesi, A., Paoli, M., Picchi, E., and Poggi Salani, T. (eds) (2000). Atlante Lessicale Toscano. Roma: Lexis Progetti Editoriali.</p>\n</blockquote>",
     "license": {
         "id": "CC-BY-4.0"
     }
