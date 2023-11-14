@@ -88,10 +88,16 @@ class Dataset(BaseDataset):
         languages = {}
         for language in self.languages:
             idx = language["ID"] + "_" + slug(language["Name"])
+            glottocode = "ital1282" if language["Name"] == "Italiano" else "fior1235"
+            isocode = "ita" if language["Name"] == "Italiano" else ""
             args.writer.add_language(
-                    ID=idx,
-                    Name=language["Name"]
-                    )
+                ID=idx,
+                Name=language["Name"],
+                Longitude=language["Longitude"],
+                Latitude=language["Latitude"],
+                Glottocode=glottocode,
+                ISO639P3code=isocode
+                )
             languages[language["ID"] + " " + language["Name"]] = idx
         args.log.info("added languages")
 
@@ -133,4 +139,3 @@ class Dataset(BaseDataset):
                             Value=form,
                             Form=form,
                             Source="tuscan")
-
