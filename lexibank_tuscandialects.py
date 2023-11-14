@@ -5,6 +5,8 @@ from pylexibank import Dataset as BaseDataset
 from pylexibank import progressbar as pb
 from pylexibank import Language, Concept
 from pylexibank import FormSpec
+import re
+import codecs
 
 
 @attr.s
@@ -24,6 +26,28 @@ class Dataset(BaseDataset):
     language_class = CustomLanguage
     concept_class = CustomConcept
     #form_spec = FormSpec(separators="~;,/", missing_data=["∅"], first_form_only=True)
+
+    def cmd_download(self, args):
+        """
+        Download basic data.
+        """
+        self.raw_dir.download(
+                "http://dbtvm1.ilc.cnr.it/altweb/ISAPI_AltWeb.dll?AZIONE=ALL&PARAM=P",
+                "concepts.html")
+        with codecs.open(self.raw_dir / "concepts.html", "r", encoding="windows-1250") as f:
+            text = ""
+            for row in f:
+                text += row
+        concepts = re.findall(
+                r'target="principale">([^<]*)\. \(n\. ([0-9]*[a-zA-Z]*)\)</', text)
+        alt_concepts = re.findall(
+                r'target="principale">([^<]*)<', text)
+        with codecs.open(self.raw_dir / "concepts-in-source.tsv", "w", "utf-8") as f:
+            for concept, num in concepts:
+                f.write(num + "\t" + concept + "\n")
+        args.log.info("wrote concepts in source to raw directory")
+
+
 
     def cmd_makecldf(self, args):
         # add bib
