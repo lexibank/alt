@@ -23,15 +23,15 @@ Available online at http://serverdbt.ilc.cnr.it/ALTWEB/
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 213
+- **Varieties:** 214
 - **Concepts:** 444
-- **Lexemes:** 68,740
+- **Lexemes:** 69,184
 - **Sources:** 1
 - **Synonymy:** 1.00
 - **Invalid lexemes:** 0
-- **Tokens:** 448,516
+- **Tokens:** 451,448
 - **Segments:** 82 (0 BIPA errors, 0 CLTS sound class errors, 82 CLTS modified)
-- **Inventory size (avg):** 55.11
+- **Inventory size (avg):** 53.75
 
 ## CLDF Datasets
 

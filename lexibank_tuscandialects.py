@@ -7,6 +7,7 @@ from pylexibank import Language, Concept
 from pylexibank import FormSpec
 import re
 import codecs
+from collections import defaultdict, Counter
 
 
 @attr.s
@@ -91,32 +92,40 @@ class Dataset(BaseDataset):
                     ID=idx,
                     Name=language["Name"]
                     )
-            languages[language["ID"] + " "+ language["Name"]] = idx 
+            languages[language["ID"] + " " + language["Name"]] = idx
         args.log.info("added languages")
 
         # read in data
         #data = self.raw_dir.read_csv(
         #    "ALT-standardized_forms.csv", delimiter=","
         #)
-        readings = defaultdict(lambda : defaultdict(list))
+
+        readings = defaultdict(lambda: defaultdict(list))
         for path in self.raw_dir.glob("alt_notosc_IPA/*.fon"):
             concept, language = "", ""
             for row in self.raw_dir.read_csv(path):
                 line = row[0]
                 if line.startswith("%"):
-                    pass
+                    continue
                 elif line.startswith("#"):
-                    concept = line[2:]
+                    concept = line[2:].replace(" ", "_").replace("'", "_")
                 elif line.startswith(":"):
                     language = line[2:]
                 elif line.startswith('-'):
                     form = line[2:]
                     readings[concept][language] += [form]
+
+        standardized_data = defaultdict(lambda: defaultdict(str))
+        for concept, langdict in readings.items():
+            for language, forms in langdict.items():
+                if not forms:
+                    continue
+                most_common_form = Counter(forms).most_common(1)[0][0]
+                standardized_data[concept][language] = most_common_form
         
         # add data
-        for row in pb(data[1:], desc="cldfify"):
-            concept = row[0]
-            for language, form in list(zip(data[0], row))[1:]:
+        for concept, langdict in pb(standardized_data.items(), desc="cldfify"):
+            for language, form in langdict.items():
                 if form.strip():
                     args.writer.add_form(
                             Language_ID=languages[language],
