@@ -8,13 +8,13 @@
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "CLDF dataset derived Giacomelli et al.'s \"Atlante Lessicalo Toscano\" from 2000",
+    "dc:title": "CLDF dataset derived Giacomelli et al.'s \"Atlante Lessicale Toscano\" from 2000",
     "dcat:accessURL": "https://github.com/lexibank/tuscandialects/",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/lexibank/tuscandialects/",
             "rdf:type": "prov:Entity",
-            "dc:created": "fd1a97f",
+            "dc:created": "23526a8",
             "dc:title": "Repository"
         },
         {
