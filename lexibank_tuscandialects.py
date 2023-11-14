@@ -47,6 +47,22 @@ class Dataset(BaseDataset):
                 f.write(num + "\t" + concept + "\n")
         args.log.info("wrote concepts in source to raw directory")
 
+        self.raw_dir.download(
+            "http://dbtvm1.ilc.cnr.it/altweb/ISAPI_AltWeb.dll?AZIONE=ALL&PARAM=P2&LUOGHI=&NUMSAVE=",
+            "concepts2.html")
+        with codecs.open(self.raw_dir / "concepts2.html", "r", encoding="windows-1250") as f:
+            text = ""
+            for row in f:
+                text += row
+        concepts = re.findall(
+            r'target="principale">([^<]*)\. \(n\. ([0-9]*[a-zA-Z]*)\)</', text)
+        alt_concepts = re.findall(
+            r'target="principale">([^<]*)<', text)
+        with codecs.open(self.raw_dir / "concepts-in-source.tsv", "a", "utf-8") as f:
+            for concept, num in concepts:
+                f.write(num + "\t" + concept + "\n")
+        args.log.info("wrote concepts in source to raw directory")
+
 
 
     def cmd_makecldf(self, args):
