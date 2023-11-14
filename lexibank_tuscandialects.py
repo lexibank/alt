@@ -95,9 +95,24 @@ class Dataset(BaseDataset):
         args.log.info("added languages")
 
         # read in data
-        data = self.raw_dir.read_csv(
-            "ALT-standardized_forms.csv", delimiter=","
-        )
+        #data = self.raw_dir.read_csv(
+        #    "ALT-standardized_forms.csv", delimiter=","
+        #)
+        readings = defaultdict(lambda : defaultdict(list))
+        for path in self.raw_dir.glob("alt_notosc_IPA/*.fon"):
+            concept, language = "", ""
+            for row in self.raw_dir.read_csv(path):
+                line = row[0]
+                if line.startswith("%"):
+                    pass
+                elif line.startswith("#"):
+                    concept = line[2:]
+                elif line.startswith(":"):
+                    language = line[2:]
+                elif line.startswith('-'):
+                    form = line[2:]
+                    readings[concept][language] += [form]
+        
         # add data
         for row in pb(data[1:], desc="cldfify"):
             concept = row[0]
