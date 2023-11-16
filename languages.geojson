@@ -1,0 +1,3644 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.30159000225699,
+          44.22433400134394
+        ]
+      },
+      "properties": {
+        "Name": "Sillano",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.25520199933252,
+          44.06383899986351
+        ]
+      },
+      "properties": {
+        "Name": "Arni",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.28915499992879,
+          44.10959200313014
+        ]
+      },
+      "properties": {
+        "Name": "Vagli di Sotto",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.31119600031702,
+          43.99288099849333
+        ]
+      },
+      "properties": {
+        "Name": "Stazzema",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.33337300146948,
+          44.15926999918733
+        ]
+      },
+      "properties": {
+        "Name": "Camporgiano",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.38078899997331,
+          44.05316000036013
+        ]
+      },
+      "properties": {
+        "Name": "Vergemoli",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.41046300473832,
+          44.13197400296089
+        ]
+      },
+      "properties": {
+        "Name": "Pieve Fosciana",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.48188899876056,
+          44.07533299392805
+        ]
+      },
+      "properties": {
+        "Name": "Barga",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4761109996737,
+          44.18999999946514
+        ]
+      },
+      "properties": {
+        "Name": "San Pellegrino in Alpe",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.63502197806674,
+          44.00123402696339
+        ]
+      },
+      "properties": {
+        "Name": "Brandeglio",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.71982600023063,
+          44.13129100107019
+        ]
+      },
+      "properties": {
+        "Name": "Rivoreta",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75525349254085,
+          44.04792019574936
+        ]
+      },
+      "properties": {
+        "Name": "Popiglio",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.80422585784181,
+          44.00707478703261
+        ]
+      },
+      "properties": {
+        "Name": "Prunetta",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.88985172455598,
+          44.0759627785184
+        ]
+      },
+      "properties": {
+        "Name": "Orsigna",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.94798015508617,
+          44.03890753964417
+        ]
+      },
+      "properties": {
+        "Name": "Spedaletto",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.99493926943881,
+          44.10553554610151
+        ]
+      },
+      "properties": {
+        "Name": "Castello di Sambuca",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.02800063645709,
+          44.08096426983965
+        ]
+      },
+      "properties": {
+        "Name": "Treppio",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.14788005153505,
+          44.0452025806862
+        ]
+      },
+      "properties": {
+        "Name": "Mercatale di Vernio",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2385430031115,
+          44.0010449948112
+        ]
+      },
+      "properties": {
+        "Name": "Barberino di Mugello",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.38027600084427,
+          44.1206520134889
+        ]
+      },
+      "properties": {
+        "Name": "Firenzuola",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.43205499968508,
+          44.0057959997928
+        ]
+      },
+      "properties": {
+        "Name": "Ronta",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2266419990875,
+          43.95665899797469
+        ]
+      },
+      "properties": {
+        "Name": "Pietrasanta",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.34079600484785,
+          43.86877799665231
+        ]
+      },
+      "properties": {
+        "Name": "Massarosa",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.38338698864065,
+          43.78098801091537
+        ]
+      },
+      "properties": {
+        "Name": "Vecchiano",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.39945680811532,
+          43.89317965849895
+        ]
+      },
+      "properties": {
+        "Name": "Piazzano",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.41220399806057,
+          43.9673699970414
+        ]
+      },
+      "properties": {
+        "Name": "Pescaglia",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.51100500031196,
+          43.78998499968408
+        ]
+      },
+      "properties": {
+        "Name": "Vorno",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.53182499974886,
+          43.96813499992574
+        ]
+      },
+      "properties": {
+        "Name": "Anchiano",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.56940600026646,
+          43.84266199279522
+        ]
+      },
+      "properties": {
+        "Name": "Marlia",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.61751800060708,
+          43.8451670016526
+        ]
+      },
+      "properties": {
+        "Name": "Porcari",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.64450299938729,
+          43.92582599934484
+        ]
+      },
+      "properties": {
+        "Name": "Villa Basilica",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.70312999997194,
+          43.75533299920471
+        ]
+      },
+      "properties": {
+        "Name": "Staffoli",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.71948000068206,
+          43.8390270002968
+        ]
+      },
+      "properties": {
+        "Name": "Chiesina Uzzanese",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.72280198278262,
+          43.99769718611633
+        ]
+      },
+      "properties": {
+        "Name": "Pontito",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.80975295673675,
+          43.93532003289916
+        ]
+      },
+      "properties": {
+        "Name": "Casore del Monte",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.81346300020205,
+          43.87142600367837
+        ]
+      },
+      "properties": {
+        "Name": "Monsummano",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.88016376017773,
+          43.75982874774003
+        ]
+      },
+      "properties": {
+        "Name": "Cerreto Guidi",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.89307299945456,
+          43.96058398750901
+        ]
+      },
+      "properties": {
+        "Name": "Gello",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.92590700018874,
+          43.8227810002999
+        ]
+      },
+      "properties": {
+        "Name": "Porciano",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.01813000176337,
+          43.93657400136043
+        ]
+      },
+      "properties": {
+        "Name": "Montale",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0360009997205,
+          43.78211100077741
+        ]
+      },
+      "properties": {
+        "Name": "Artimino",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.06796100018897,
+          43.86709199982938
+        ]
+      },
+      "properties": {
+        "Name": "San Giusto in Piazzanese",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.09126200060931,
+          43.92305199997151
+        ]
+      },
+      "properties": {
+        "Name": "Figline di Prato",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.18193300007605,
+          43.79558899974826
+        ]
+      },
+      "properties": {
+        "Name": "Peretola",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.22463600017208,
+          43.91453900130551
+        ]
+      },
+      "properties": {
+        "Name": "Legri",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.28016531124811,
+          43.91142609268881
+        ]
+      },
+      "properties": {
+        "Name": "Vaglia",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4002700004051,
+          43.81135799976322
+        ]
+      },
+      "properties": {
+        "Name": "Molin del Piano",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4671869999156,
+          43.93261899674003
+        ]
+      },
+      "properties": {
+        "Name": "Vicchio",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.48611100096764,
+          43.82533299592893
+        ]
+      },
+      "properties": {
+        "Name": "Rufina",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.53453699984907,
+          43.74953700070586
+        ]
+      },
+      "properties": {
+        "Name": "Tosi",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.52220399503457,
+          43.89205600658073
+        ]
+      },
+      "properties": {
+        "Name": "Dicomano",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.61801899858016,
+          43.9260880057071
+        ]
+      },
+      "properties": {
+        "Name": "Castagno d'Andrea",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.70926400123312,
+          43.798530004831
+        ]
+      },
+      "properties": {
+        "Name": "Stia",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.72594399991653,
+          43.7489409995932
+        ]
+      },
+      "properties": {
+        "Name": "Borgo alla Collina",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8803145249404,
+          43.79455586060134
+        ]
+      },
+      "properties": {
+        "Name": "Badia Prataglia",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.21061800021947,
+          43.78479200076515
+        ]
+      },
+      "properties": {
+        "Name": "Ca' Raffaello",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.27539099867598,
+          43.66792000049365
+        ]
+      },
+      "properties": {
+        "Name": "Marina di Pisa",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.43729288813889,
+          43.6071337931193
+        ]
+      },
+      "properties": {
+        "Name": "Mortaiolo",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.42719699976966,
+          43.69457200034609
+        ]
+      },
+      "properties": {
+        "Name": "Putignano",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.51394765017948,
+          43.57047809441294
+        ]
+      },
+      "properties": {
+        "Name": "Fauglia",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.58888199069386,
+          43.72696397827378
+        ]
+      },
+      "properties": {
+        "Name": "Buti",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.63283300047657,
+          43.66266700057432
+        ]
+      },
+      "properties": {
+        "Name": "Pontedera",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.67762189477526,
+          43.58654644199424
+        ]
+      },
+      "properties": {
+        "Name": "Santo Pietro in Belvedere",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.77434142804626,
+          43.60518112261636
+        ]
+      },
+      "properties": {
+        "Name": "Palaia",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.85132999980289,
+          43.67936300175208
+        ]
+      },
+      "properties": {
+        "Name": "San Miniato Alto",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.96904700124729,
+          43.61099400331737
+        ]
+      },
+      "properties": {
+        "Name": "Castelfiorentino",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.02137000251826,
+          43.73393199591138
+        ]
+      },
+      "properties": {
+        "Name": "Montelupo Fiorentino",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.03856097354944,
+          43.54739130527386
+        ]
+      },
+      "properties": {
+        "Name": "Certaldo",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.07658000068688,
+          43.64293500371672
+        ]
+      },
+      "properties": {
+        "Name": "Montespertoli",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.17079600102043,
+          43.5420560013707
+        ]
+      },
+      "properties": {
+        "Name": "Barberino Val d'Elsa",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.21362299955652,
+          43.61156500060636
+        ]
+      },
+      "properties": {
+        "Name": "Montefiridolfi",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.24564800014525,
+          43.72563000019405
+        ]
+      },
+      "properties": {
+        "Name": "Pozzolatico",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.31536199769984,
+          43.5850970001795
+        ]
+      },
+      "properties": {
+        "Name": "Greve in Chianti",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3821540000469,
+          43.72055699999707
+        ]
+      },
+      "properties": {
+        "Name": "San Donato in Collina",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.44909599838061,
+          43.65613600001579
+        ]
+      },
+      "properties": {
+        "Name": "Incisa in Valdarno",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.48798100244939,
+          43.52125900362078
+        ]
+      },
+      "properties": {
+        "Name": "Cavriglia",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.53281499987346,
+          43.56455599991041
+        ]
+      },
+      "properties": {
+        "Name": "San Giovanni Valdarno",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.54625900390744,
+          43.64298100445443
+        ]
+      },
+      "properties": {
+        "Name": "Pian di Sco'",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6198520021103,
+          43.74096300067253
+        ]
+      },
+      "properties": {
+        "Name": "Montemignaio",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.63289099795104,
+          43.59264399935531
+        ]
+      },
+      "properties": {
+        "Name": "Loro Ciuffenna",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.70937100016364,
+          43.67760900045654
+        ]
+      },
+      "properties": {
+        "Name": "Raggiolo",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.759531004191,
+          43.52739599981415
+        ]
+      },
+      "properties": {
+        "Name": "Castiglion Fibocchi",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.78812987427712,
+          43.6028146664798
+        ]
+      },
+      "properties": {
+        "Name": "Talla",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.78888001456503,
+          43.65371100697428
+        ]
+      },
+      "properties": {
+        "Name": "Castel Focognano",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8555479999838,
+          43.6975659997351
+        ]
+      },
+      "properties": {
+        "Name": "Campi di Bibbiena",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.86538699923807,
+          43.49489001505704
+        ]
+      },
+      "properties": {
+        "Name": "Ceciliano",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.87132699934158,
+          43.57557700462441
+        ]
+      },
+      "properties": {
+        "Name": "Subbiano",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.93611100165718,
+          43.69844400796716
+        ]
+      },
+      "properties": {
+        "Name": "Chiusi della Verna",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.98596299991347,
+          43.64096300177901
+        ]
+      },
+      "properties": {
+        "Name": "Caprese Michelangelo",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.04079600063155,
+          43.67114299461998
+        ]
+      },
+      "properties": {
+        "Name": "Pieve Santo Stefano",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.06064799613988,
+          43.5418889920424
+        ]
+      },
+      "properties": {
+        "Name": "Anghiari",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.14407400082147,
+          43.57563000661826
+        ]
+      },
+      "properties": {
+        "Name": "Sansepolcro",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.18649099958033,
+          43.70895799576969
+        ]
+      },
+      "properties": {
+        "Name": "Badia Tedalda",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.29892600138434,
+          43.71062999769953
+        ]
+      },
+      "properties": {
+        "Name": "Sestino",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.32379699955595,
+          43.49582600069787
+        ]
+      },
+      "properties": {
+        "Name": "Antignano",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.47394974898442,
+          43.40562535457887
+        ]
+      },
+      "properties": {
+        "Name": "Rosignano Marittimo",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5177850041964,
+          43.31040200180674
+        ]
+      },
+      "properties": {
+        "Name": "Cecina",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.51301600811422,
+          43.4954857320566
+        ]
+      },
+      "properties": {
+        "Name": "Orciano Pisano",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5952100003203,
+          43.26944900018476
+        ]
+      },
+      "properties": {
+        "Name": "Bibbona",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.60031499771855,
+          43.36579599872363
+        ]
+      },
+      "properties": {
+        "Name": "Riparbella",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.64229498064848,
+          43.48601219950572
+        ]
+      },
+      "properties": {
+        "Name": "Chianni",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6009439999652,
+          43.56705500078292
+        ]
+      },
+      "properties": {
+        "Name": "Querceto",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.72904700001986,
+          43.47623899781347
+        ]
+      },
+      "properties": {
+        "Name": "Laiatico",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.74965300371777,
+          43.39247299815339
+        ]
+      },
+      "properties": {
+        "Name": "Montecatini Val di Cecina",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.86111099590128,
+          43.4014260006823
+        ]
+      },
+      "properties": {
+        "Name": "Volterra",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.87392600424266,
+          43.30001800865922
+        ]
+      },
+      "properties": {
+        "Name": "Pomarance",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.87561299986419,
+          43.51478992542646
+        ]
+      },
+      "properties": {
+        "Name": "Iano",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.02080400013644,
+          43.40382000045409
+        ]
+      },
+      "properties": {
+        "Name": "Castel San Gimignano",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.04375899594392,
+          43.47033298938847
+        ]
+      },
+      "properties": {
+        "Name": "San Gimignano",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.05519699995683,
+          43.30057499833121
+        ]
+      },
+      "properties": {
+        "Name": "Mensano",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.13251799864281,
+          43.4162780001971
+        ]
+      },
+      "properties": {
+        "Name": "Colle Val d'Elsa",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.15642599995853,
+          43.34499999993469
+        ]
+      },
+      "properties": {
+        "Name": "Maggiano",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.20101800017843,
+          43.29429499897005
+        ]
+      },
+      "properties": {
+        "Name": "Ancaiano",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.30422336804458,
+          43.29194212888486
+        ]
+      },
+      "properties": {
+        "Name": "Costalpino",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.30823799952633,
+          43.4369549994248
+        ]
+      },
+      "properties": {
+        "Name": "Fonterutoli",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.30970400038556,
+          43.39283300039097
+        ]
+      },
+      "properties": {
+        "Name": "Quercegrossa",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3732330079976,
+          43.48649399893565
+        ]
+      },
+      "properties": {
+        "Name": "Radda in Chianti",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.53329599815522,
+          43.45312999799901
+        ]
+      },
+      "properties": {
+        "Name": "Nusenna",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.52877100036881,
+          43.31070100021852
+        ]
+      },
+      "properties": {
+        "Name": "Torre a Castello",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.60455600018735,
+          43.41688900052836
+        ]
+      },
+      "properties": {
+        "Name": "Ambra",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.68672200403694,
+          43.47140700294025
+        ]
+      },
+      "properties": {
+        "Name": "Pergine Valdarno",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.73130999891839,
+          43.32974200850903
+        ]
+      },
+      "properties": {
+        "Name": "Monte San Savino",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.72433400241939,
+          43.41812400194557
+        ]
+      },
+      "properties": {
+        "Name": "Civitella in Val di Chiana",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.84519875299029,
+          43.42716290732209
+        ]
+      },
+      "properties": {
+        "Name": "Olmo",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.85604300045251,
+          43.28780600047274
+        ]
+      },
+      "properties": {
+        "Name": "Brolio",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.91606699702194,
+          43.34232499335343
+        ]
+      },
+      "properties": {
+        "Name": "Castiglion Fiorentino",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.97751610133318,
+          43.42297851080774
+        ]
+      },
+      "properties": {
+        "Name": "Palazzo del Pero",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.10084193954765,
+          43.31137005486636
+        ]
+      },
+      "properties": {
+        "Name": "Valle Dame",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.11220400168937,
+          43.48938900273236
+        ]
+      },
+      "properties": {
+        "Name": "Monterchi",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.833385864734055,
+          43.03732488161732
+        ]
+      },
+      "properties": {
+        "Name": "Capraia",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.54188899570862,
+          43.09392600400174
+        ]
+      },
+      "properties": {
+        "Name": "San Vincenzo",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.71083079402727,
+          43.09850224623006
+        ]
+      },
+      "properties": {
+        "Name": "Caldana Terme",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.61096600409304,
+          43.15972500236559
+        ]
+      },
+      "properties": {
+        "Name": "Castagneto Carducci",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.61881799959831,
+          43.23394599735258
+        ]
+      },
+      "properties": {
+        "Name": "Bolgheri",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.679241001497,
+          43.07829600055155
+        ]
+      },
+      "properties": {
+        "Name": "Suvereto",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.71563899669729,
+          43.17842399848473
+        ]
+      },
+      "properties": {
+        "Name": "Monteverdi Marittimo",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.81413500025893,
+          43.21800000011111
+        ]
+      },
+      "properties": {
+        "Name": "Serrazzano",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.85595899672404,
+          43.14662799711584
+        ]
+      },
+      "properties": {
+        "Name": "Monterotondo Marittimo",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.89392600275947,
+          43.0499999999959
+        ]
+      },
+      "properties": {
+        "Name": "Massa Marittima",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.90281499703206,
+          43.21205599278616
+        ]
+      },
+      "properties": {
+        "Name": "Castelnuovo in Val di Cecina",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.95741700028568,
+          43.26569099797892
+        ]
+      },
+      "properties": {
+        "Name": "Montecastelli Pisano",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.01664101647095,
+          43.13115599695844
+        ]
+      },
+      "properties": {
+        "Name": "Montieri",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.14863388518519,
+          43.20619936653281
+        ]
+      },
+      "properties": {
+        "Name": "Frosini",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.15413100019246,
+          43.07398400050371
+        ]
+      },
+      "properties": {
+        "Name": "Torniella",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.17999399708935,
+          43.1406259945753
+        ]
+      },
+      "properties": {
+        "Name": "Monticiano",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.28813000036914,
+          43.26361099985096
+        ]
+      },
+      "properties": {
+        "Name": "San Rocco a Pilli",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.31953099970906,
+          43.0632140001468
+        ]
+      },
+      "properties": {
+        "Name": "Pari",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.32551499981097,
+          43.16216400039366
+        ]
+      },
+      "properties": {
+        "Name": "Casciano di Murlo",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.42205500060802,
+          43.23031500800371
+        ]
+      },
+      "properties": {
+        "Name": "Monteroni d'Arbia",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.46564799935421,
+          43.16829599973849
+        ]
+      },
+      "properties": {
+        "Name": "Ponte d'Arbia",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.48898300087092,
+          43.06059000662901
+        ]
+      },
+      "properties": {
+        "Name": "Montalcino",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.55841599920776,
+          43.17609700473469
+        ]
+      },
+      "properties": {
+        "Name": "Chiusure d'Asciano",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.56151000063123,
+          43.23337899031986
+        ]
+      },
+      "properties": {
+        "Name": "Asciano",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.60596298080758,
+          43.05766705046953
+        ]
+      },
+      "properties": {
+        "Name": "San Quirico d'Orcia",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.65964899908635,
+          43.14179099976892
+        ]
+      },
+      "properties": {
+        "Name": "Castelmuzio",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.74350499526212,
+          43.21491500097981
+        ]
+      },
+      "properties": {
+        "Name": "Sinalunga",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.74598499997021,
+          43.27469799824544
+        ]
+      },
+      "properties": {
+        "Name": "Lucignano in Val di Chiana",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.82068551544661,
+          43.19410481469895
+        ]
+      },
+      "properties": {
+        "Name": "Torrita Stazione",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.78238900430094,
+          43.09292600920778
+        ]
+      },
+      "properties": {
+        "Name": "Montepulciano",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.81814759607137,
+          43.25043662228702
+        ]
+      },
+      "properties": {
+        "Name": "Foiano della Chiana",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.90157400019167,
+          43.14705600027202
+        ]
+      },
+      "properties": {
+        "Name": "Valiano",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.91370599949601,
+          43.06026599877347
+        ]
+      },
+      "properties": {
+        "Name": "Montallese",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.98775400079579,
+          43.27408099587525
+        ]
+      },
+      "properties": {
+        "Name": "Cortona",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.02389599972704,
+          43.20948100039793
+        ]
+      },
+      "properties": {
+        "Name": "Terontola",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1401669999022,
+          43.25672199927376
+        ]
+      },
+      "properties": {
+        "Name": "Mercatale di Cortona",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.16860900057689,
+          42.79312799896394
+        ]
+      },
+      "properties": {
+        "Name": "Marciana",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.24424100021037,
+          42.78657399981034
+        ]
+      },
+      "properties": {
+        "Name": "Procchio",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.31562200163213,
+          42.81251099988408
+        ]
+      },
+      "properties": {
+        "Name": "Portoferraio",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.40237000096211,
+          42.81424099892749
+        ]
+      },
+      "properties": {
+        "Name": "Rio nell'Elba",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5254320031471,
+          42.92585099562481
+        ]
+      },
+      "properties": {
+        "Name": "Piombino",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.68387399992208,
+          42.97989499913404
+        ]
+      },
+      "properties": {
+        "Name": "Riotorto",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8505669954404,
+          42.9090209995903
+        ]
+      },
+      "properties": {
+        "Name": "Scarlino",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9886570043835,
+          42.84553299820929
+        ]
+      },
+      "properties": {
+        "Name": "Buriano",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.06407399989343,
+          42.99249999982389
+        ]
+      },
+      "properties": {
+        "Name": "Montemassi",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.08796099938014,
+          42.88272899894482
+        ]
+      },
+      "properties": {
+        "Name": "Montepescali",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.16625799201099,
+          42.8684631840942
+        ]
+      },
+      "properties": {
+        "Name": "Batignano",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.16830899936348,
+          43.01047200889335
+        ]
+      },
+      "properties": {
+        "Name": "Roccastrada",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.27352469936329,
+          42.88381898572091
+        ]
+      },
+      "properties": {
+        "Name": "Campagnatico",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.28200599918362,
+          42.99522299868248
+        ]
+      },
+      "properties": {
+        "Name": "Civitella Marittima",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.32733899995365,
+          42.93245600006865
+        ]
+      },
+      "properties": {
+        "Name": "Sasso d'Ombrone",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.39857799962413,
+          43.00732500430271
+        ]
+      },
+      "properties": {
+        "Name": "Camigliano",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.48140699985775,
+          42.88735199927863
+        ]
+      },
+      "properties": {
+        "Name": "Monticello Amiata",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.56048700264351,
+          42.92849100116403
+        ]
+      },
+      "properties": {
+        "Name": "Seggiano",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5851820030684,
+          42.83195400125062
+        ]
+      },
+      "properties": {
+        "Name": "Santa Fiora",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.61560400191909,
+          43.00811799498226
+        ]
+      },
+      "properties": {
+        "Name": "Castiglion d'Orcia",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.66698700081848,
+          42.94705000118647
+        ]
+      },
+      "properties": {
+        "Name": "Campiglia d'Orcia",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.68594400180908,
+          42.85174099893033
+        ]
+      },
+      "properties": {
+        "Name": "Piancastagnaio",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.74064799987539,
+          42.97720400029446
+        ]
+      },
+      "properties": {
+        "Name": "Contignano",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.82195035521227,
+          42.86289290831159
+        ]
+      },
+      "properties": {
+        "Name": "Celle sul Rigo",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9004089973915,
+          42.96531599730346
+        ]
+      },
+      "properties": {
+        "Name": "Cetona",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.12109200037843,
+          42.7485590004762
+        ]
+      },
+      "properties": {
+        "Name": "Pomonte",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.03527370218005,
+          42.8397281261128
+        ]
+      },
+      "properties": {
+        "Name": "La Pila",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.37899656043142,
+          42.742873061348
+        ]
+      },
+      "properties": {
+        "Name": "Capoliveri",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.88235799967373,
+          42.76586399501159
+        ]
+      },
+      "properties": {
+        "Name": "Castiglion della Pescaia",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.10642599973117,
+          42.66987000078493
+        ]
+      },
+      "properties": {
+        "Name": "Alberese",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.13329600001317,
+          42.55531499989295
+        ]
+      },
+      "properties": {
+        "Name": "Talamone",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.18846300026802,
+          42.78266699985908
+        ]
+      },
+      "properties": {
+        "Name": "Istia d'Ombrone",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.22392600011587,
+          42.6467410002874
+        ]
+      },
+      "properties": {
+        "Name": "Montiano",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.29346299704437,
+          42.59907400086109
+        ]
+      },
+      "properties": {
+        "Name": "Magliano in Toscana",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.29841899985305,
+          42.73800900044137
+        ]
+      },
+      "properties": {
+        "Name": "Montorgiali",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.32329600145964,
+          42.64548100060175
+        ]
+      },
+      "properties": {
+        "Name": "Pereta",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.42570599977899,
+          42.79643999953036
+        ]
+      },
+      "properties": {
+        "Name": "Cana",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.50485173494606,
+          42.66627843589016
+        ]
+      },
+      "properties": {
+        "Name": "Saturnia",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.51731000241417,
+          42.58880201062458
+        ]
+      },
+      "properties": {
+        "Name": "Manciano",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.54066968368033,
+          42.72990605962846
+        ]
+      },
+      "properties": {
+        "Name": "Semproniano",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.64375899999587,
+          42.76766699947628
+        ]
+      },
+      "properties": {
+        "Name": "Selvena",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6745370032812,
+          42.63596300311181
+        ]
+      },
+      "properties": {
+        "Name": "Pitigliano",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7136989968938,
+          42.68257899958417
+        ]
+      },
+      "properties": {
+        "Name": "Sorano",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.75125900020175,
+          42.73142600009604
+        ]
+      },
+      "properties": {
+        "Name": "Castell'Ottieri",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.90107840209581,
+          42.36636511442733
+        ]
+      },
+      "properties": {
+        "Name": "Giglio Castello",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.12136815030681,
+          42.4351340708776
+        ]
+      },
+      "properties": {
+        "Name": "Porto Santo Stefano",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.22066200181637,
+          42.44226800440451
+        ]
+      },
+      "properties": {
+        "Name": "Orbetello",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4215350089515,
+          42.45422399903664
+        ]
+      },
+      "properties": {
+        "Name": "Capalbio",
+        "Glottocode": "fior1235",
+        "Glottolog_Name": "Fiorentino",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.65,
+          43.05
+        ]
+      },
+      "properties": {
+        "Name": "Italiano",
+        "Glottocode": "ital1282",
+        "Glottolog_Name": "Italian",
+        "ISO639P3code": "ita",
+        "Macroarea": "Eurasia",
+        "Family": "Indo-European"
+      }
+    }
+  ]
+}
