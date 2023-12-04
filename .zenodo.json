@@ -5,8 +5,81 @@
         "cldf:Wordlist",
         "linguistics"
     ],
-    "creators": [],
-    "contributors": [],
+    "creators": [
+        {
+            "name": "Giovanna Giacomelli"
+        },
+        {
+            "name": "Luciano Agostiniani"
+        },
+        {
+            "name": "Patrizia Bellucci"
+        },
+        {
+            "name": "Luciano Giannelli"
+        },
+        {
+            "name": "Simonetta Montemagni"
+        },
+        {
+            "name": "Annalisa Nesi"
+        },
+        {
+            "name": "Matilde Paoli"
+        },
+        {
+            "name": "Eugenio Picchi"
+        },
+        {
+            "name": "Teresa Poggi Salani"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Arne Rubehn",
+            "type": "Editor"
+        },
+        {
+            "name": "Giovanna Giacomelli",
+            "type": "Editor"
+        },
+        {
+            "name": "Luciano Agostiniani",
+            "type": "Editor"
+        },
+        {
+            "name": "Patrizia Bellucci",
+            "type": "Editor"
+        },
+        {
+            "name": "Luciano Giannelli",
+            "type": "Editor"
+        },
+        {
+            "name": "Simonetta Montemagni",
+            "type": "Editor"
+        },
+        {
+            "name": "Annalisa Nesi",
+            "type": "Editor"
+        },
+        {
+            "name": "Matilde Paoli",
+            "type": "Editor"
+        },
+        {
+            "name": "Eugenio Picchi",
+            "type": "Editor"
+        },
+        {
+            "name": "Teresa Poggi Salani",
+            "type": "Editor"
+        },
+        {
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        }
+    ],
     "communities": [
         {
             "identifier": "lexibank"
