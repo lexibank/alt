@@ -1,83 +1,83 @@
 ID,Name,Description,ColumnSpec,CLTS_BIPA,CLTS_Name,Lexibank_BIPA,Frequency,OccurrencePerVariety,OccurrencePerConcept
-0061,a,unrounded open front vowel,,a,unrounded open front vowel,a,70672,214,302
-002b,+,+,,+,+,+,3661,214,25
-0062,b,voiced bilabial stop consonant,,b,voiced bilabial stop consonant,b,9197,214,83
-0074-0283-02d0,tʃː,long voiceless post-alveolar sibilant affricate consonant,,tʃː,long voiceless post-alveolar sibilant affricate consonant,tʃː,2848,214,25
-0069,i,unrounded close front vowel,,i,unrounded close front vowel,i,26362,214,183
-006f,o,rounded close-mid back vowel,,o,rounded close-mid back vowel,o,59726,214,322
-0283,ʃ,voiceless post-alveolar sibilant fricative consonant,,ʃ,voiceless post-alveolar sibilant fricative consonant,ʃ,3427,213,113
-0062-02d0,bː,long voiced bilabial stop consonant,,bː,long voiced bilabial stop consonant,bː,454,212,17
-0074-0283,tʃ,voiceless post-alveolar sibilant affricate consonant,,tʃ,voiceless post-alveolar sibilant affricate consonant,tʃ,8213,214,73
-0292,ʒ,voiced post-alveolar sibilant fricative consonant,,ʒ,voiced post-alveolar sibilant fricative consonant,ʒ,568,206,22
-0078,x,voiceless velar fricative consonant,,x,voiceless velar fricative consonant,x,357,70,28
-0073,s,voiceless alveolar sibilant fricative consonant,,s,voiceless alveolar sibilant fricative consonant,s,13908,214,116
-006b,k,voiceless velar stop consonant,,k,voiceless velar stop consonant,k,10764,214,104
-007a,z,voiced alveolar sibilant fricative consonant,,z,voiced alveolar sibilant fricative consonant,z,1325,213,28
-006b-02d0,kː,long voiceless velar stop consonant,,kː,long voiceless velar stop consonant,kː,4585,214,38
-0075,u,rounded close back vowel,,u,rounded close back vowel,u,9185,214,196
-0076,v,voiced labio-dental fricative consonant,,v,voiced labio-dental fricative consonant,v,3829,214,29
-006c-02d0,lː,long voiced alveolar lateral approximant consonant,,lː,long voiced alveolar lateral approximant consonant,lː,6355,214,48
-006c,l,voiced alveolar lateral approximant consonant,,l,voiced alveolar lateral approximant consonant,l,19175,214,153
-0074,t,voiceless alveolar stop consonant,,t,voiceless alveolar stop consonant,t,15823,214,130
-0073-02d0,sː,long voiceless alveolar sibilant fricative consonant,,sː,long voiceless alveolar sibilant fricative consonant,sː,1396,214,25
-03b8,θ,voiceless dental fricative consonant,,θ,voiceless dental fricative consonant,θ,3654,143,53
-0064,d,voiced alveolar stop consonant,,d,voiced alveolar stop consonant,d,6845,214,91
-0064-02d0,dː,long voiced alveolar stop consonant,,dː,long voiced alveolar stop consonant,dː,15,7,13
-0074-0073-02d0,tsː,long voiceless alveolar sibilant affricate consonant,,tsː,long voiceless alveolar sibilant affricate consonant,tsː,3376,213,30
-0065,e,unrounded close-mid front vowel,,e,unrounded close-mid front vowel,e,24497,214,205
-03b2,β,voiced bilabial fricative consonant,,β,voiced bilabial fricative consonant,β,238,79,10
-006e,n,voiced alveolar nasal consonant,,n,voiced alveolar nasal consonant,n,24711,214,147
-025b,ɛ,unrounded open-mid front vowel,,ɛ,unrounded open-mid front vowel,ɛ,6808,214,88
-0077,w,voiced labio-velar approximant consonant,,w,voiced labio-velar approximant consonant,w,1683,214,25
-0254,ɔ,rounded open-mid back vowel,,ɔ,rounded open-mid back vowel,ɔ,8382,214,60
-0074-02d0,tː,long voiceless alveolar stop consonant,,tː,long voiceless alveolar stop consonant,tː,5259,214,39
-0068,h,voiceless glottal fricative consonant,,h,voiceless glottal fricative consonant,h,1996,140,39
-0067,g,voiced velar stop consonant,,g,voiced velar stop consonant,g,7232,214,73
-006a,j,voiced palatal approximant consonant,,j,voiced palatal approximant consonant,j,7339,214,92
-006a-02d0,jː,long voiced palatal approximant consonant,,jː,long voiced palatal approximant consonant,j:,32,5,18
-0263,ɣ,voiced velar fricative consonant,,ɣ,voiced velar fricative consonant,ɣ,785,100,23
-0272-02d0,ɲː,long voiced palatal nasal consonant,,ɲː,long voiced palatal nasal consonant,ɲː,2303,214,16
-006e-02d0,nː,long voiced alveolar nasal consonant,,nː,long voiced alveolar nasal consonant,nː,816,209,11
-0272,ɲ,voiced palatal nasal consonant,,ɲ,voiced palatal nasal consonant,ɲ,82,49,17
-0074-0073,ts,voiceless alveolar sibilant affricate consonant,,ts,voiceless alveolar sibilant affricate consonant,ts,1649,214,27
-0072,r,voiced alveolar trill consonant,,r,voiced alveolar trill consonant,r,26981,214,194
-00f0,ð,voiced dental fricative consonant,,ð,voiced dental fricative consonant,ð,775,92,25
-0259,ə,unrounded mid central vowel,,ə,unrounded mid central vowel,ə,31,1,30
-0070,p,voiceless bilabial stop consonant,,p,voiceless bilabial stop consonant,p,12519,214,86
-0278,ɸ,voiceless bilabial fricative consonant,,ɸ,voiceless bilabial fricative consonant,ɸ,1666,131,28
-0076-02d0,vː,long voiced labio-dental fricative consonant,,vː,long voiced labio-dental fricative consonant,vː,7,7,1
-014b,ŋ,voiced velar nasal consonant,,ŋ,voiced velar nasal consonant,ŋ,27,3,24
-006d,m,voiced bilabial nasal consonant,,m,voiced bilabial nasal consonant,m,10716,214,70
-0256,ɖ,voiced retroflex stop consonant,,ɖ,voiced retroflex stop consonant,ɖ,9,2,9
-0064-0292,dʒ,voiced post-alveolar sibilant affricate consonant,,dʒ,voiced post-alveolar sibilant affricate consonant,dʒ,1186,213,20
-028e-02d0,ʎː,long voiced palatal lateral approximant consonant,,ʎː,long voiced palatal lateral approximant consonant,ʎː,2527,214,21
-0064-0292-02d0,dʒː,long voiced post-alveolar sibilant affricate consonant,,dʒː,long voiced post-alveolar sibilant affricate consonant,dʒː,1272,214,11
-006f-0303,õ,nasalized rounded close-mid back vowel,,õ,nasalized rounded close-mid back vowel,õ,11,2,10
-0064-007a-02d0,dzː,long voiced alveolar sibilant affricate consonant,,dzː,long voiced alveolar sibilant affricate consonant,dzː,1485,213,17
-0065-02d0,eː,long unrounded close-mid front vowel,,eː,long unrounded close-mid front vowel,eː,4,4,1
-0065-032f,e̯,non-syllabic unrounded close-mid front vowel,,e̯,non-syllabic unrounded close-mid front vowel,ḙ/e̯,5,1,5
-0283-02d0,ʃː,long voiceless post-alveolar sibilant fricative consonant,,ʃː,long voiceless post-alveolar sibilant fricative consonant,ʃː,1385,214,12
-0072-02d0,rː,long voiced alveolar trill consonant,,rː,long voiced alveolar trill consonant,rː,545,194,5
-0067-02b2-02d0,gʲː,palatalized long voiced velar stop consonant,,gʲː,palatalized long voiced velar stop consonant,gʲː,17,7,12
-0074-02b2,tʲ,palatalized voiceless alveolar stop consonant,,tʲ,palatalized voiceless alveolar stop consonant,tʲ,75,37,9
-006b-02b2,kʲ,palatalized voiceless velar stop consonant,,kʲ,palatalized voiceless velar stop consonant,kʲ,1103,186,13
-0064-007a,dz,voiced alveolar sibilant affricate consonant,,dz,voiced alveolar sibilant affricate consonant,dz,805,212,12
-007a-02d0,zː,long voiced alveolar sibilant fricative consonant,,zː,long voiced alveolar sibilant fricative consonant,zː,4,2,4
-028e,ʎ,voiced palatal lateral approximant consonant,,ʎ,voiced palatal lateral approximant consonant,ʎ,24,16,12
-0064-02b2-02d0,dʲː,palatalized long voiced alveolar stop consonant,,dʲː,palatalized long voiced alveolar stop consonant,dʲː,7,2,6
-006d-02d0,mː,long voiced bilabial nasal consonant,,mː,long voiced bilabial nasal consonant,mː,433,205,8
-0061-02d0,aː,long unrounded open front vowel,,aː,long unrounded open front vowel,aː,12,10,4
-00e6,æ,unrounded near-open front vowel,,æ,unrounded near-open front vowel,æ,6,3,6
+0062,b,voiced bilabial stop consonant,,b,voiced bilabial stop consonant,b,9134,213,83
+0069,i,unrounded close front vowel,,i,unrounded close front vowel,i,26185,213,183
+0073,s,voiceless alveolar sibilant fricative consonant,,s,voiceless alveolar sibilant fricative consonant,s,13812,213,116
+006b,k,voiceless velar stop consonant,,k,voiceless velar stop consonant,k,10668,213,104
+0065,e,unrounded close-mid front vowel,,e,unrounded close-mid front vowel,e,24332,213,205
+0072,r,voiced alveolar trill consonant,,r,voiced alveolar trill consonant,r,26813,213,194
+006f,o,rounded close-mid back vowel,,o,rounded close-mid back vowel,o,59339,213,322
+0067,g,voiced velar stop consonant,,g,voiced velar stop consonant,g,7177,213,73
+0061,a,unrounded open front vowel,,a,unrounded open front vowel,a,70217,213,302
+0073-02d0,sː,long voiceless alveolar sibilant fricative consonant,,sː,long voiceless alveolar sibilant fricative consonant,sː,1388,213,25
+0075,u,rounded close back vowel,,u,rounded close back vowel,u,9127,213,196
+0074-0283,tʃ,voiceless post-alveolar sibilant affricate consonant,,tʃ,voiceless post-alveolar sibilant affricate consonant,tʃ,8140,213,71
+006e,n,voiced alveolar nasal consonant,,n,voiced alveolar nasal consonant,n,24547,213,147
+0283,ʃ,voiceless post-alveolar sibilant fricative consonant,,ʃ,voiceless post-alveolar sibilant fricative consonant,ʃ,3426,212,113
+0254,ɔ,rounded open-mid back vowel,,ɔ,rounded open-mid back vowel,ɔ,8328,213,60
 006b-02b2-02d0,kʲː,palatalized long voiceless velar stop consonant,,kʲː,palatalized long voiceless velar stop consonant,kʲː,1177,194,11
+006b-02d0,kː,long voiceless velar stop consonant,,kː,long voiceless velar stop consonant,kː,4550,213,38
+006a,j,voiced palatal approximant consonant,,j,voiced palatal approximant consonant,j,7274,213,92
 0074-02b2-02d0,tʲː,palatalized long voiceless alveolar stop consonant,,tʲː,palatalized long voiceless alveolar stop consonant,tʲː,25,3,10
-0070-02d0,pː,long voiceless bilabial stop consonant,,pː,long voiceless bilabial stop consonant,pː,1495,214,13
+0263,ɣ,voiced velar fricative consonant,,ɣ,voiced velar fricative consonant,ɣ,785,100,23
+006c,l,voiced alveolar lateral approximant consonant,,l,voiced alveolar lateral approximant consonant,l,19044,213,153
+006d,m,voiced bilabial nasal consonant,,m,voiced bilabial nasal consonant,m,10647,213,70
+0078,x,voiceless velar fricative consonant,,x,voiceless velar fricative consonant,x,357,70,28
+0068,h,voiceless glottal fricative consonant,,h,voiceless glottal fricative consonant,h,1996,140,39
+0061-02d0,aː,long unrounded open front vowel,,aː,long unrounded open front vowel,aː,12,10,4
+025b,ɛ,unrounded open-mid front vowel,,ɛ,unrounded open-mid front vowel,ɛ,6762,213,88
+0066,f,voiceless labio-dental fricative consonant,,f,voiceless labio-dental fricative consonant,f,4786,213,29
+0070,p,voiceless bilabial stop consonant,,p,voiceless bilabial stop consonant,p,12428,213,86
+028e-02d0,ʎː,long voiced palatal lateral approximant consonant,,ʎː,long voiced palatal lateral approximant consonant,ʎː,2511,213,21
+006c-02d0,lː,long voiced alveolar lateral approximant consonant,,lː,long voiced alveolar lateral approximant consonant,lː,6312,213,48
+0259,ə,unrounded mid central vowel,,ə,unrounded mid central vowel,ə,31,1,30
+0074,t,voiceless alveolar stop consonant,,t,voiceless alveolar stop consonant,t,15699,213,130
+03b2,β,voiced bilabial fricative consonant,,β,voiced bilabial fricative consonant,β,238,79,10
+0062-02d0,bː,long voiced bilabial stop consonant,,bː,long voiced bilabial stop consonant,bː,452,211,17
+0076,v,voiced labio-dental fricative consonant,,v,voiced labio-dental fricative consonant,v,3803,213,29
+03b8,θ,voiceless dental fricative consonant,,θ,voiceless dental fricative consonant,θ,3654,143,53
+0064,d,voiced alveolar stop consonant,,d,voiced alveolar stop consonant,d,6795,213,91
+0074-0073,ts,voiceless alveolar sibilant affricate consonant,,ts,voiceless alveolar sibilant affricate consonant,ts,1642,213,27
+0064-007a,dz,voiced alveolar sibilant affricate consonant,,dz,voiced alveolar sibilant affricate consonant,dz,800,211,12
+014b,ŋ,voiced velar nasal consonant,,ŋ,voiced velar nasal consonant,ŋ,27,3,24
+007a,z,voiced alveolar sibilant fricative consonant,,z,voiced alveolar sibilant fricative consonant,z,1314,212,28
+0066-02d0,fː,long voiceless labio-dental fricative consonant,,fː,long voiceless labio-dental fricative consonant,fː,183,182,2
+0064-02d0,dː,long voiced alveolar stop consonant,,dː,long voiced alveolar stop consonant,dː,15,7,13
+0272,ɲ,voiced palatal nasal consonant,,ɲ,voiced palatal nasal consonant,ɲ,82,49,17
+0272-02d0,ɲː,long voiced palatal nasal consonant,,ɲː,long voiced palatal nasal consonant,ɲː,2288,213,16
+0077,w,voiced labio-velar approximant consonant,,w,voiced labio-velar approximant consonant,w,1672,213,25
+0065-032f,e̯,non-syllabic unrounded close-mid front vowel,,e̯,non-syllabic unrounded close-mid front vowel,ḙ/e̯,5,1,5
+0074-0283-02d0,tʃː,long voiceless post-alveolar sibilant affricate consonant,,tʃː,long voiceless post-alveolar sibilant affricate consonant,tʃː,2829,213,25
+0064-02b2-02d0,dʲː,palatalized long voiced alveolar stop consonant,,dʲː,palatalized long voiced alveolar stop consonant,dʲː,7,2,6
+006a-02d0,jː,long voiced palatal approximant consonant,,jː,long voiced palatal approximant consonant,j:,32,5,18
 025f,ɟ,voiced palatal stop consonant,,ɟ,voiced palatal stop consonant,ɟ,1,1,1
+0067-02b2-02d0,gʲː,palatalized long voiced velar stop consonant,,gʲː,palatalized long voiced velar stop consonant,gʲː,17,7,12
+028e,ʎ,voiced palatal lateral approximant consonant,,ʎ,voiced palatal lateral approximant consonant,ʎ,24,16,12
+006b-02b2,kʲ,palatalized voiceless velar stop consonant,,kʲ,palatalized voiceless velar stop consonant,kʲ,1103,186,13
+00f0,ð,voiced dental fricative consonant,,ð,voiced dental fricative consonant,ð,775,92,25
+0074-02d0,tː,long voiceless alveolar stop consonant,,tː,long voiceless alveolar stop consonant,tː,5225,213,39
 0069-031e,i̞,lowered unrounded close front vowel,,i̞,lowered unrounded close front vowel,i̞,4,2,4
 0067-02b2,gʲ,palatalized voiced velar stop consonant,,gʲ,palatalized voiced velar stop consonant,gʲ,534,191,9
 0067-02d0,gː,long voiced velar stop consonant,,gː,long voiced velar stop consonant,gː,2,2,2
-0066-02d0,fː,long voiceless labio-dental fricative consonant,,fː,long voiceless labio-dental fricative consonant,fː,184,183,2
-0066,f,voiceless labio-dental fricative consonant,,f,voiceless labio-dental fricative consonant,f,4816,214,29
-006f-02d0,oː,long rounded close-mid back vowel,,oː,long rounded close-mid back vowel,oː,16,15,3
-0255,ɕ,voiceless alveolo-palatal sibilant fricative consonant,,ɕ,voiceless alveolo-palatal sibilant fricative consonant,ɕ,2,2,2
+006d-02d0,mː,long voiced bilabial nasal consonant,,mː,long voiced bilabial nasal consonant,mː,431,204,8
+0064-007a-02d0,dzː,long voiced alveolar sibilant affricate consonant,,dzː,long voiced alveolar sibilant affricate consonant,dzː,1474,212,17
+0074-0073-02d0,tsː,long voiceless alveolar sibilant affricate consonant,,tsː,long voiceless alveolar sibilant affricate consonant,tsː,3356,212,30
+007a-02d0,zː,long voiced alveolar sibilant fricative consonant,,zː,long voiced alveolar sibilant fricative consonant,zː,4,2,4
+0064-0292,dʒ,voiced post-alveolar sibilant affricate consonant,,dʒ,voiced post-alveolar sibilant affricate consonant,dʒ,1175,212,20
+0283-02d0,ʃː,long voiceless post-alveolar sibilant fricative consonant,,ʃː,long voiceless post-alveolar sibilant fricative consonant,ʃː,1377,213,12
+0070-02d0,pː,long voiceless bilabial stop consonant,,pː,long voiceless bilabial stop consonant,pː,1485,213,13
+0064-0292-02d0,dʒː,long voiced post-alveolar sibilant affricate consonant,,dʒː,long voiced post-alveolar sibilant affricate consonant,dʒː,1265,213,11
 0064-02b2,dʲ,palatalized voiced alveolar stop consonant,,dʲ,palatalized voiced alveolar stop consonant,dʲ,22,17,5
+0292,ʒ,voiced post-alveolar sibilant fricative consonant,,ʒ,voiced post-alveolar sibilant fricative consonant,ʒ,568,206,22
+0278,ɸ,voiceless bilabial fricative consonant,,ɸ,voiceless bilabial fricative consonant,ɸ,1666,131,28
+00e6,æ,unrounded near-open front vowel,,æ,unrounded near-open front vowel,æ,6,3,6
+006f-0303,õ,nasalized rounded close-mid back vowel,,õ,nasalized rounded close-mid back vowel,õ,11,2,10
+0065-02d0,eː,long unrounded close-mid front vowel,,eː,long unrounded close-mid front vowel,eː,4,4,1
+0072-02d0,rː,long voiced alveolar trill consonant,,rː,long voiced alveolar trill consonant,rː,540,193,5
+002b,+,+,,+,+,+,3634,213,25
+0256,ɖ,voiced retroflex stop consonant,,ɖ,voiced retroflex stop consonant,ɖ,9,2,9
+0074-02b2,tʲ,palatalized voiceless alveolar stop consonant,,tʲ,palatalized voiceless alveolar stop consonant,tʲ,75,37,9
+006e-02d0,nː,long voiced alveolar nasal consonant,,nː,long voiced alveolar nasal consonant,nː,809,208,11
+006f-02d0,oː,long rounded close-mid back vowel,,oː,long rounded close-mid back vowel,oː,16,15,3
+0255,ɕ,voiceless alveolo-palatal sibilant fricative consonant,,ɕ,voiceless alveolo-palatal sibilant fricative consonant,ɕ,1,1,1
+0076-02d0,vː,long voiced labio-dental fricative consonant,,vː,long voiced labio-dental fricative consonant,vː,6,6,1
 0075-031e,u̞,lowered rounded close back vowel,,u̞,lowered rounded close back vowel,u̞,1,1,1

@@ -80,7 +80,7 @@ class Dataset(BaseDataset):
     def cmd_makecldf(self, args):
         
         sounds = defaultdict(
-                lambda : {
+                lambda: {
                     "concept": defaultdict(int), 
                     "variety": defaultdict(int), 
                     "total": 0})
@@ -180,9 +180,11 @@ class Dataset(BaseDataset):
                                 Form=form,
                                 Source="tuscan")
                         for sound in lexeme["Segments"]:
-                            sounds[sound]["variety"][languages[language]] += 1
-                            sounds[sound]["concept"][concepts[concept]] += 1
-                            sounds[sound]["total"] += 1
+                            # don't count standardized Italian forms
+                            if language != "225 Italiano":
+                                sounds[sound]["variety"][languages[language]] += 1
+                                sounds[sound]["concept"][concepts[concept]] += 1
+                                sounds[sound]["total"] += 1
             language_table = writer.cldf["LanguageTable"]            
 
         with self.cldf_writer(args, cldf_spec="structure", clean=False) as writer:
