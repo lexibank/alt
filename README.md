@@ -33,8 +33,28 @@ Available online at http://serverdbt.ilc.cnr.it/ALTWEB/
 - **Segments:** 82 (0 BIPA errors, 0 CLTS sound class errors, 82 CLTS modified)
 - **Inventory size (avg):** 53.75
 
+# Contributors
+
+Name | GitHub user | Description | Role
+--- | --- | --- | ---
+Arne Rubehn | @arubehn | Lexibank editor | Editor
+Giovanna Giacomelli | | editor of the original data | Author, Editor
+Luciano Agostiniani | | editor of the original data | Author, Editor
+Patrizia Bellucci | | editor of the original data | Author, Editor
+Luciano Giannelli | | editor of the original data | Author, Editor
+Simonetta Montemagni | | editor of the present data subset and the original data | Author, Editor
+Annalisa Nesi | | editor of the original data | Author, Editor
+Matilde Paoli | | editor of the original data | Author, Editor
+Eugenio Picchi | | editor of the original data | Author, Editor
+Teresa Poggi Salani | | editor of the original data | Author, Editor
+Johann-Mattis List | @LinguList | Lexibank consultant | Other 
+
+
+
+
 ## CLDF Datasets
 
 The following CLDF datasets are available in [cldf](cldf):
 
 - CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
+- CLDF [StructureDataset](https://github.com/cldf/cldf/tree/master/modules/StructureDataset) at [cldf/StructureDataset-metadata.json](cldf/StructureDataset-metadata.json)
