@@ -4239,7 +4239,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Context,Frequency
 206_alberese_006d,206_alberese,006d,m,,,tuscan,,61
 207_talamone_006d,207_talamone,006d,m,,,tuscan,,47
 208_istiadombrone_006d,208_istiadombrone,006d,m,,,tuscan,,35
-209_montiano_006d,209_montiano,006d,m,,,tuscan,,62
+209_montiano_006d,209_montiano,006d,m,,,tuscan,,61
 21_popiglio_006d,21_popiglio,006d,m,,,tuscan,,56
 210_maglianointoscana_006d,210_maglianointoscana,006d,m,,,tuscan,,63
 211_montorgiali_006d,211_montorgiali,006d,m,,,tuscan,,59
@@ -11042,7 +11042,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Context,Frequency
 20_rivoreta_002b,20_rivoreta,002b,+,,,tuscan,,16
 202_pomonte_002b,202_pomonte,002b,+,,,tuscan,,14
 203_lapila_002b,203_lapila,002b,+,,,tuscan,,15
-209_montiano_002b,209_montiano,002b,+,,,tuscan,,23
+209_montiano_002b,209_montiano,002b,+,,,tuscan,,22
 21_popiglio_002b,21_popiglio,002b,+,,,tuscan,,16
 210_maglianointoscana_002b,210_maglianointoscana,002b,+,,,tuscan,,20
 211_montorgiali_002b,211_montorgiali,002b,+,,,tuscan,,21

@@ -29,7 +29,7 @@ Available online at http://serverdbt.ilc.cnr.it/ALTWEB/
 - **Sources:** 1
 - **Synonymy:** 1.00
 - **Invalid lexemes:** 0
-- **Tokens:** 451,448
+- **Tokens:** 451,446
 - **Segments:** 82 (0 BIPA errors, 0 CLTS sound class errors, 82 CLTS modified)
 - **Inventory size (avg):** 53.75
 

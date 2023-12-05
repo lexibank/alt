@@ -20,7 +20,7 @@ ID,Name,Description,ColumnSpec,CLTS_BIPA,CLTS_Name,Lexibank_BIPA,Frequency,Occur
 0074-02b2-02d0,tʲː,palatalized long voiceless alveolar stop consonant,,tʲː,palatalized long voiceless alveolar stop consonant,tʲː,25,3,10
 0263,ɣ,voiced velar fricative consonant,,ɣ,voiced velar fricative consonant,ɣ,785,100,23
 006c,l,voiced alveolar lateral approximant consonant,,l,voiced alveolar lateral approximant consonant,l,19044,213,153
-006d,m,voiced bilabial nasal consonant,,m,voiced bilabial nasal consonant,m,10647,213,70
+006d,m,voiced bilabial nasal consonant,,m,voiced bilabial nasal consonant,m,10646,213,69
 0078,x,voiceless velar fricative consonant,,x,voiceless velar fricative consonant,x,357,70,28
 0068,h,voiceless glottal fricative consonant,,h,voiceless glottal fricative consonant,h,1996,140,39
 0061-02d0,aː,long unrounded open front vowel,,aː,long unrounded open front vowel,aː,12,10,4
@@ -73,7 +73,7 @@ ID,Name,Description,ColumnSpec,CLTS_BIPA,CLTS_Name,Lexibank_BIPA,Frequency,Occur
 006f-0303,õ,nasalized rounded close-mid back vowel,,õ,nasalized rounded close-mid back vowel,õ,11,2,10
 0065-02d0,eː,long unrounded close-mid front vowel,,eː,long unrounded close-mid front vowel,eː,4,4,1
 0072-02d0,rː,long voiced alveolar trill consonant,,rː,long voiced alveolar trill consonant,rː,540,193,5
-002b,+,+,,+,+,+,3634,213,25
+002b,+,+,,+,+,+,3633,213,24
 0256,ɖ,voiced retroflex stop consonant,,ɖ,voiced retroflex stop consonant,ɖ,9,2,9
 0074-02b2,tʲ,palatalized voiceless alveolar stop consonant,,tʲ,palatalized voiceless alveolar stop consonant,tʲ,75,37,9
 006e-02d0,nː,long voiced alveolar nasal consonant,,nː,long voiced alveolar nasal consonant,nː,809,208,11

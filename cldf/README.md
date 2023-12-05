@@ -18,7 +18,7 @@ property | value
 [dc:identifier](http://purl.org/dc/terms/identifier) | http://serverdbt.ilc.cnr.it/ALTWEB/
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/lexibank/tuscandialects/
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/lexibank/tuscandialects//tree/2ce4f6c">lexibank/tuscandialects/ 2ce4f6c</a></li><li><a href="https://github.com/glottolog/glottolog/tree/2dfc4be1ed">Glottolog v4.8-43-g2dfc4be1ed</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/0d1fc1ae">Concepticon v3.1.0-80-g0d1fc1ae</a></li><li><a href="https://github.com/cldf-clts/clts/tree/6e60c1d">CLTS v2.2.0-11-g6e60c1d</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/lexibank/tuscandialects//tree/c2f683a">lexibank/tuscandialects/ c2f683a</a></li><li><a href="https://github.com/glottolog/glottolog/tree/2dfc4be1ed">Glottolog v4.8-43-g2dfc4be1ed</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/0d1fc1ae">Concepticon v3.1.0-80-g0d1fc1ae</a></li><li><a href="https://github.com/cldf-clts/clts/tree/6e60c1d">CLTS v2.2.0-11-g6e60c1d</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.9.18</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | tuscandialects
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
@@ -116,7 +116,7 @@ property | value
 [dc:identifier](http://purl.org/dc/terms/identifier) | http://serverdbt.ilc.cnr.it/ALTWEB/
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/lexibank/tuscandialects/
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/lexibank/tuscandialects//tree/2ce4f6c">lexibank/tuscandialects/ 2ce4f6c</a></li><li><a href="https://github.com/glottolog/glottolog/tree/2dfc4be1ed">Glottolog v4.8-43-g2dfc4be1ed</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/0d1fc1ae">Concepticon v3.1.0-80-g0d1fc1ae</a></li><li><a href="https://github.com/cldf-clts/clts/tree/6e60c1d">CLTS v2.2.0-11-g6e60c1d</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/lexibank/tuscandialects//tree/c2f683a">lexibank/tuscandialects/ c2f683a</a></li><li><a href="https://github.com/glottolog/glottolog/tree/2dfc4be1ed">Glottolog v4.8-43-g2dfc4be1ed</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/0d1fc1ae">Concepticon v3.1.0-80-g0d1fc1ae</a></li><li><a href="https://github.com/cldf-clts/clts/tree/6e60c1d">CLTS v2.2.0-11-g6e60c1d</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.9.18</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | tuscandialects
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution

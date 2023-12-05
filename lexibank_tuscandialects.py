@@ -159,6 +159,10 @@ class Dataset(BaseDataset):
                         language = line[2:]
                     elif line.startswith('-'):
                         form = line[2:]
+                        # don't read in form "m proda" for concept "proda",
+                        # since it contains morphological variation.
+                        if concept == "proda" and form[0] == "m":
+                            continue
                         readings[concept][language] += [form]
 
             standardized_data = defaultdict(lambda: defaultdict(str))
