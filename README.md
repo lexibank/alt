@@ -1,4 +1,4 @@
-# CLDF dataset derived Giacomelli et al.'s "Atlante Lessicale Toscano" from 2000
+# CLDF dataset derived Giacomelli et al.'s "Atlante Lessicale Toscano" (ALT) from 2000
 
 ## How to cite
 
