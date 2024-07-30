@@ -1,19 +1,16 @@
 NUMBER	ITALIAN	CONCEPTICON_ID	CONCEPTICON_GLOSS	SIMILARITY
 1	bischero		???	
-#<<<				
-2	grasso	1279	FAT (OBESE)	2
 2	grasso	323	FAT (ORGANIC SUBSTANCE)	2
-#>>>				
-3	cenci		???	
+3	cenci		???
 4	occhio	1248	EYE	2
-5	sugo		???	
-6	lumaca		???	
+5	sugo	1499	JUICE
+6	lumaca	1543	SNAIL
 7	manfano		???	
 8	pagliaia		???	
 9	bighellone		???	
 10	strabico		???	
 11	covata		???	
-12	becco		???	
+12	becco	73	BEAK
 13	orso	1820	BEAR	2
 14	succhiello		???	
 15	ronzone		???	
@@ -21,46 +18,46 @@ NUMBER	ITALIAN	CONCEPTICON_ID	CONCEPTICON_GLOSS	SIMILARITY
 17	cantonata		???	
 18	birignoccolo		???	
 19	scricciolo		???	
-20	ciglio		???	
+20	ciglio	1540	EYELASH
 21	chiocciola	1543	SNAIL	2
 22	cavaocchi		???	
 23	edera		???	
-24	ramaiolo		???	
+24	ramaiolo	2657	LADLE
 25	citto		???	
 26	stracco		???	
 27	bruschetta		???	
-28	spigolo		???	
+28	spigolo	192	CORNER
 29	camomilla		???	
 30	ziro		???	
 31	mangiatoia		???	
-32	cinghia		???	
+32	cinghia	2973	STRAP
 33	mirtilli		???	
 34	zittella		???	
 35	sagrato		???	
-36	mietitura		???	
+36	mietitura	611	HARVEST
 37	mollica		???	
 38	cintura	772	BELT	2
 39	bazza		???	
 40	zeppa		???	
 41	trabiccolo		???	
-42	oca		???	
-43	piaggia		???	
-44	ghiaia		???	
+42	oca	1187	GOOSE
+43	piaggia	3076	SLOPE
+44	ghiaia	3028	GRAVEL
 45	recinto		???	
 46	capocollo		???	
-47	favilla		???	
+47	favilla	518	SPARK
 48	bernoccolo		???	
 49	zizzola		???	
-50	sodo		???	
-51	segale		???	
+50	sodo	1884	HARD
+51	segale	23	RYE
 52	matassa		???	
 53	bindolo		???	
 54	mestone		???	
-55	capo		???	
+55	capo	1256	HEAD
 56	cispa		???	
-57	volpe		???	
+57	volpe	1312	FOX
 58	zolfanello		???	
-59	pozzanghera		???	
+59	pozzanghera	2290	PUDDLE
 60	ciocca		???	
 61	brindellone		???	
 62	capezzolo	796	NIPPLE	2
@@ -71,53 +68,53 @@ NUMBER	ITALIAN	CONCEPTICON_ID	CONCEPTICON_GLOSS	SIMILARITY
 67	strullo		???	
 68	idraulico		???	
 69	letame	2057	DUNG (ANIMAL FAECES)	2
-70	cimitero		???	
+70	cimitero	3284	GRAVEYARD
 71	ginepro		???	
-72	ferraio		???	
-73	gazza		???	
+72	ferraio	1001	BLACKSMITH
+73	gazza	2039	MAGPIE
 74	nervoso	3975	NERVOUS	2
 75	di_traverso		???	
 76	licite		???	
-77	pipistrello		???	
-78	baccano		???	
-79	gabinetto		???	
-80	catasta		???	
+77	pipistrello	1793	BAT
+78	baccano		???
+79	gabinetto	219	TOILET
+80	catasta		???
 81	aspito		???	
 82	stoppia		???	
-83	gota		???	
+83	gota	1730	CHEEK
 84	papero		???	
 85	alloro		???	
 86	magnano		???	
 87	spaccone		???	
 88	sottana		???	
-89	lupo		???	
+89	lupo	522	WOLF
 90	nappone		???	
 91	strolago		???	
 92	sciapito		???	
-93	odori		???	
-94	cacio		???	
+93	odori	3704	ODOR (SMELL)
+94	cacio	1569	CHEESE
 95	poggio		???	
-96	pupilla		???	
-97	chiacchierone		???	
-98	rozzo		???	
-99	borraccina		???	
-100	pelato		???	
+96	pupilla	1658	PUPIL
+97	chiacchierone	2207	CHATTERER
+98	rozzo	1923	ROUGH
+99	borraccina	637	MOSS
+100	pelato	1125	BALD
 101	tartaruga	112	TURTLE	2
 102	a_caso		???	
-103	terriccio		???	
-104	pollone		???	
+103	terriccio	1166	MOULD
+104	pollone	546	SUCKER
 105	ciucco		???	
-106	acquaio		???	
-107	giubba		???	
-108	sedano		???	
+106	acquaio	915	SINK (BASIN)
+107	giubba	2770	JACKET
+108	sedano	3727	CELERY
 109	ape	665	BEE	2
 110	zolla		???	
-111	cesta		???	
+111	cesta	1539	BASKET
 112	padrino		???	
-113	brace		???	
+113	brace	67	EMBERS
 114	gazzera		???	
 115	cagnara		???	
-116	agnella		???	
+116	agnella	820	LAMB
 117	fiocco		???	
 118	soglia		???	
 119	casino		???	
@@ -125,11 +122,11 @@ NUMBER	ITALIAN	CONCEPTICON_ID	CONCEPTICON_GLOSS	SIMILARITY
 121	giomella		???	
 122	grattacacia		???	
 123	ghiacciaia		???	
-124	castagneto		???	
+124	castagneto	1009	CHESTNUT TREE
 125	unguanno_passo		???	
 126	broccione		???	
 127	nascondino		???	
-128	burrone		???	
+128	burrone	1930	RAVINE
 129	arcolaio		???	
 130	pendolo		???	
 131	biscia		???	
@@ -138,9 +135,9 @@ NUMBER	ITALIAN	CONCEPTICON_ID	CONCEPTICON_GLOSS	SIMILARITY
 134	in_proda		???	
 135	cigna		???	
 136	livido		???	
-137	tarantola		???	
-138	focolare		???	
-139	pastone		???	
+137	tarantola	3886	TARANTULA
+138	focolare	185	FIREPLACE
+139	pastone	400	MUSH
 140	nasone		???	
 141	gelso		???	
 142	cenciaiolo		???	
@@ -150,18 +147,19 @@ NUMBER	ITALIAN	CONCEPTICON_ID	CONCEPTICON_GLOSS	SIMILARITY
 146	compare		???	
 147	concio		???	
 148	midolla		???	
-149	imbranato		???	
-150	crivello		???	
+149	imbranato	3900	CLUMSY
+150	crivello	3353	SIEVE (TOOL)
 151	ceppa		???	
 152	castagnaccio		???	
 153	a_solatio		???	
-154	sciapo		???	
-155	asino		???	
-156	semola		???	
+154	sciapo	1771	TASTELESS
+155	asino	1862	DONKEY
+156	semola	2362	BRAN
 157	chiorbone		???	
 158	vitalba		???	
-159	somaro		???	
-160	guercio		???	
+159	somaro	1862	DONKEY
+160	guercio	87	SQUINT-EYED
+# progress
 161	pappavero		???	
 162	ganza		???	
 163	albicocca		???	
@@ -206,10 +204,7 @@ NUMBER	ITALIAN	CONCEPTICON_ID	CONCEPTICON_GLOSS	SIMILARITY
 202	denti_occhiali		???	
 203	scapolo		???	
 204	cavalletta		???	
-#<<<				
 205	bastone	1295	STICK	2
-205	bastone	1763	CLUB	2
-#>>>				
 206	cocomero		???	
 207	sputo		???	
 208	frana		???	
@@ -299,7 +294,7 @@ NUMBER	ITALIAN	CONCEPTICON_ID	CONCEPTICON_GLOSS	SIMILARITY
 292	imbroglio		???	
 293	riccio		???	
 294	manciata		???	
-295	proda		???	
+295	proda	113	SHORE
 296	cantuccio		???	
 297	rocchio		???	
 298	acino		???	

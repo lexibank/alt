@@ -10,6 +10,7 @@ import codecs
 from collections import defaultdict, Counter
 from cldfbench import CLDFSpec
 from pyclts import CLTS
+import csv
 import pylexibank
 
 
@@ -26,7 +27,7 @@ class CustomConcept(Concept):
 
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
-    id = "tuscandialects"
+    id = "alt"
     language_class = CustomLanguage
     concept_class = CustomConcept
     #form_spec = FormSpec(separators="~;,/", missing_data=["∅"], first_form_only=True)
@@ -78,6 +79,10 @@ class Dataset(BaseDataset):
         }
 
     def cmd_makecldf(self, args):
+        # load concepticon mappings
+        with open("etc/concepticon_mappings.tsv") as f:
+            reader = csv.DictReader(f, delimiter="\t")
+            concepticon_mappings = {row["NUMBER"]: row["CONCEPTICON_ID"] for row in reader}
         
         sounds = defaultdict(
                 lambda: {
@@ -94,10 +99,12 @@ class Dataset(BaseDataset):
             concepts = {}
             for concept in self.concepts:
                 idx = concept["NUMBER"] + "_" + slug(concept["ITALIAN"])
+                concepticon_id = concepticon_mappings[concept["NUMBER"]]
                 writer.add_concept(
                         ID=idx,
                         Name=concept["ITALIAN"],
                         Italian_Gloss=concept["ITALIAN"],
+                        Concepticon_ID=concepticon_id,
                         )
                 concepts[concept["ITALIAN"]] = idx
                         
