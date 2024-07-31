@@ -18,10 +18,10 @@ cldfbench catconfig
 concepticon map_concepts etc/concepts.tsv --language=it --output=etc/concepticon_mappings.tsv
 
 # run cldf bench
-cldfbench lexibank.makecldf lexibank_tuscandialects.py
+cldfbench lexibank.makecldf lexibank_alt.py
 
 # run orthography profile 
-cldfbench lexibank.init_profile lexibank_tuscandialects.py 
+cldfbench lexibank.init_profile lexibank_alt.py
 
 # convert to edictor
 pip install pyedictor

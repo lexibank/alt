@@ -5,14 +5,14 @@ with open("metadata.json", encoding="utf-8") as fp:
     metadata = json.load(fp)
 
 setup(
-    name='lexibank_tuscandialects',
-    py_modules=['lexibank_tuscandialects'],
+    name='lexibank_alt',
+    py_modules=['lexibank_alt'],
     include_package_data=True,
     url=metadata.get("url",""),
     zip_safe=False,
     entry_points={
         'lexibank.dataset': [
-            'tuscandialects=lexibank_tuscandialects:Dataset',
+            'alt=lexibank_alt:Dataset',
         ]
     },
     install_requires=[
