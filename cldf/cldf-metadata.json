@@ -9,12 +9,12 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived Giacomelli et al.'s \"Atlante Lessicale Toscano\" from 2000",
-    "dcat:accessURL": "https://github.com/lexibank/tuscandialects/",
+    "dcat:accessURL": "https://github.com/lexibank/alt",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "https://github.com/lexibank/tuscandialects/",
+            "rdf:about": "https://github.com/lexibank/alt",
             "rdf:type": "prov:Entity",
-            "dc:created": "6719669",
+            "dc:created": "182f9d8",
             "dc:title": "Repository"
         },
         {

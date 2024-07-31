@@ -18,7 +18,7 @@ Available online at http://serverdbt.ilc.cnr.it/ALTWEB/
 
 
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 22%](https://img.shields.io/badge/Concepticon-22%25-red.svg "Concepticon: 22%")
+![Concepticon: 45%](https://img.shields.io/badge/Concepticon-45%25-red.svg "Concepticon: 45%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")

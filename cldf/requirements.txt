@@ -17,7 +17,7 @@ idna==3.4
 iniconfig==2.0.0
 isodate==0.6.1
 jsonschema==4.19.2
--e git+https://github.com/lexibank/tuscandialects/@6719669cb74e9a1a1f8af99cf4530dd4caf970a3#egg=lexibank_tuscandialects
+-e git+https://github.com/lexibank/alt.git@182f9d8ce0c7972eafe42343a0a2d17c42384187#egg=lexibank_alt
 lingpy==2.6.11
 lxml==4.9.3
 Markdown==3.5.1

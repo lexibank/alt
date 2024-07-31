@@ -159,19 +159,18 @@ NUMBER	ITALIAN	CONCEPTICON_ID	CONCEPTICON_GLOSS	SIMILARITY
 158	vitalba		???	
 159	somaro	1862	DONKEY
 160	guercio	87	SQUINT-EYED
-# progress
-161	pappavero		???	
+161	pappavero		???
 162	ganza		???	
-163	albicocca		???	
-164	pagliuzza		???	
+163	albicocca	3730	APRICOT
+164	pagliuzza	2299	STRAW
 165	puzzo		???	
 166	cinquale		???	
-167	popone		???	
+167	popone	507	MELON
 168	raspo		???	
-169	legnaiolo		???	
+169	legnaiolo	1042	CARPENTER
 170	bardella		???	
 171	salamandra		???	
-172	muschio		???	
+172	muschio	637	MOSS
 173	chiorba		???	
 174	caco		???	
 175	scoiattolo	1628	SQUIRREL	2
@@ -180,32 +179,32 @@ NUMBER	ITALIAN	CONCEPTICON_ID	CONCEPTICON_GLOSS	SIMILARITY
 178	coperchio		???	
 179	maiale	1337	PIG	2
 180	pinzo		???	
-181	guazza		???	
+181	guazza	1977	DEW
 182	formicola		???	
 183	braciola		???	
 184	spetezza		???	
 185	testo		???	
-186	brinata		???	
+186	brinata	2942	HOARFROST
 187	sfoglia		???	
-188	grillo		???	
+188	grillo	2354	CRICKET
 189	uggioso		???	
 190	nottolo		???	
 191	materiale		???	
-192	paletto		???	
+192	paletto	282	POLE
 193	lavatoio		???	
 194	aspite		???	
 195	topo	1491	MOUSE	2
 196	madonnina		???	
 197	bigotto		???	
-198	salsiccia		???	
-199	esoso		???	
+198	salsiccia	1874	SAUSAGE
+199	esoso	2018	GREEDY
 200	di_nascosto		???	
-201	tacchino		???	
+201	tacchino	2386	TURKEY
 202	denti_occhiali		???	
 203	scapolo		???	
-204	cavalletta		???	
+204	cavalletta	607	GRASSHOPPER
 205	bastone	1295	STICK	2
-206	cocomero		???	
+206	cocomero	2766	WATERMELON
 207	sputo		???	
 208	frana		???	
 209	moccolo		???	
@@ -214,26 +213,26 @@ NUMBER	ITALIAN	CONCEPTICON_ID	CONCEPTICON_GLOSS	SIMILARITY
 212	ragazza	1646	GIRL	2
 213	papavero		???	
 214	mattarello		???	
-215	compagno		???	
+215	compagno	3978	COMPANION
 216	rimpiattino		???	
 217	salcio		???	
-218	arancio		???	
+218	arancio	2627	ORANGE (FRUIT)
 219	moine		???	
 220	lucignola		???	
-221	coccinella		???	
+221	coccinella	3139	LADYBUG
 222	puzzola		???	
-223	mogio		???	
+223	mogio	3973	DEPRESSED
 224	ciglia		???	
-225	calzoni		???	
-226	girino		???	
+225	calzoni	809	TROUSERS
+226	girino	3979	TADPOLE
 227	tincone		???	
 228	fiammifero	1133	MATCH	2
-229	trogolo		???	
+229	trogolo	205	TROUGH
 230	a_bacio		???	
 231	pecchia		???	
 232	in_ghingheri		???	
-233	pioppo		???	
-234	viottolo		???	
+233	pioppo	821	POPLAR
+234	viottolo	2252	PATH
 235	sbronza		???	
 236	ricotta		???	
 237	trucioli		???	
@@ -241,25 +240,25 @@ NUMBER	ITALIAN	CONCEPTICON_ID	CONCEPTICON_GLOSS	SIMILARITY
 239	bubbola		???	
 240	locco		???	
 241	tartaglione		???	
-242	pagliaio		???	
+242	pagliaio	3025	BARN OR SHED
 243	baciatura		???	
 244	prese		???	
-245	vitellino		???	
-246	verro		???	
-247	paniere		???	
+245	vitellino	1989	CALF
+246	verro	1348	BOAR (MALE PIG)
+247	paniere	1539	BASKET
 248	raganella		???	
 249	orzaiolo		???	
 250	testone		???	
-251	montone		???	
+251	montone	1344	RAM
 252	bordello		???	
 253	zozzo		???	
 254	bambola	1659	DOLL	2
-255	radica		???	
+255	radica	2042	WALNUT
 256	formica	587	ANT	2
 257	spranga		???	
 258	ditale		???	
 259	comare		???	
-260	sorcio		???	
+260	sorcio	1491	MOUSE
 261	orecchio	1247	EAR	2
 262	pelliccia	580	FUR	2
 263	pettata		???	
@@ -270,178 +269,177 @@ NUMBER	ITALIAN	CONCEPTICON_ID	CONCEPTICON_GLOSS	SIMILARITY
 268	crognolo		???	
 269	susina		???	
 270	palco		???	
-271	piattola		???	
-272	uscio		???	
+271	piattola	2348	CRAB
+272	uscio	1567	DOOR
 273	cetriolo	496	CUCUMBER	2
-274	bazzone		???	
+274	bazzone		???
 275	bastardo	1947	BASTARD	2
-276	filare		???	
-277	calabrone		???	
+276	filare	1048	LINE
+277	calabrone	3261	HORNET
 278	pancione		???	
-279	fregatura		???	
-280	stregone		???	
-281	grembiale		???	
-282	fettina		???	
+279	fregatura	3055	SWINDLE
+280	stregone	823	SORCERER
+281	grembiale	2046	APRON
+282	fettina	2954	SLICE
 283	fottio		???	
 284	lodola		???	
 285	ciccione		???	
-286	gemma		???	
-287	ghiandaia		???	
+286	gemma	1684	BUD
+287	ghiandaia		???
 288	chiasso		???	
-289	fringuello		???	
+289	fringuello	3721	FINCH
 290	caglio		???	
 291	ghiro		???	
-292	imbroglio		???	
+292	imbroglio	3055	SWINDLE
 293	riccio		???	
 294	manciata		???	
 295	proda	113	SHORE
-296	cantuccio		???	
+296	cantuccio	192	CORNER
 297	rocchio		???	
-298	acino		???	
+298	acino	920	GRAPE
 299	capomilla		???	
 300	denti_macellari		???	
 301	panzanella		???	
 302	abeto		???	
 303	albero	906	TREE	2
-304	borsa		???	
+304	borsa	2468	BAG
 305	fidanzato		???	
-306	cintola		???	
+306	cintola	1681	WAIST
 307	sciamannato		???	
 308	zuccone		???	
 309	radici		???	
 310	ciucca		???	
 311	rigatino		???	
 312	scaldino		???	
-313	palo		???	
+313	palo	282	POLE
 314	scaldaletto		???	
-315	falegname		???	
-316	gallinella		???	
+315	falegname	1042	CARPENTER
+316	gallinella	1514	HEN
 317	porcino		???	
 318	bargigli		???	
-319	ravanelli		???	
+319	ravanelli	2365	RADISH
 320	papera		???	
 321	raponzoli		???	
 322	dolco		???	
-323	tirchio		???	
+323	tirchio	1774	STINGY
 324	mortadella		???	
-325	melone		???	
+325	melone	507	MELON
 326	strizza		???	
-327	ciliegia		???	
-328	cesoie		???	
-329	chicco		???	
-330	dialetto		???	
+327	ciliegia	2765	CHERRY
+328	cesoie	356	SHEARS
+329	chicco	605	GRAIN
+330	dialetto	2815	DIALECT
 331	topino		???	
-332	maialino		???	
+332	maialino	2564	PIGLET
 333	bacchettone		???	
 334	capone		???	
 335	seccatoio		???	
-336	pignatta		???	
+336	pignatta	1462	POT
 337	cigli		???	
-338	camposanto		???	
+338	camposanto	3284	GRAVEYARD
 339	sciamannone		???	
 340	parlata		???	
 341	aghetto		???	
 342	migliaccio		???	
 343	scheggia		???	
-344	stalla		???	
-345	tuono		???	
-346	vaglio		???	
+344	stalla	3025	BARN OR SHED
+345	tuono	1150	THUNDER
+346	vaglio	3353	SIEVE (TOOL)
 347	muta		???	
-348	filone		???	
+348	filone	1924	VEIN
 349	becero		???	
-350	male_di_capo		???	
+350	male_di_capo	3625	HEADACHE
 351	primo_quarto		???	
-352	ciuco		???	
+352	ciuco	1862	DONKEY
 353	fanfarone		???	
 354	stagnino		???	
 355	faraona		???	
-356	cipresso		???	
+356	cipresso	3243	CYPRESS
 357	noccola		???	
 358	fragola	3138	STRAWBERRY	2
 359	golpe		???	
 360	avvezzo		???	
 361	rancico		???	
 362	rustico		???	
-363	ceppo		???	
+363	ceppo	241	TREE STUMP
 364	mento	1510	CHIN	2
-365	talpa		???	
+365	talpa	1907	MOLE
 366	scotta		???	
 367	prezzemolo		???	
-368	desinare		???	
+368	desinare	768	LUNCH
 369	moscone		???	
-370	cimice		???	
-371	sporta		???	
-372	lucertola		???	
+370	cimice	1027	BUG
+371	sporta	2468	BAG
+372	lucertola	632	LIZARD
 373	maggiolino		???	
 374	tagliere		???	
-375	fango		???	
+375	fango	640	MUD
 376	cintolino		???	
 377	pancetta		???	
-378	fuliggine		???	
+378	fuliggine	830	SOOT
 379	a_cavalluccio		???	
 380	l__anno_scorso		???	
-381	tirato		???	
-382	luna_calante		???	
-383	bacherozzolo		???	
+381	tirato	3053	TIGHT
+382	luna_calante	3817	WANING MOON
+383	bacherozzolo	1575	COCKROACH
 384	occhiali	1898	SPECTACLES	2
-385	pettirosso		???	
-386	grappolo		???	
-387	crusca		???	
-388	male_di_testa		???	
+385	pettirosso	2402	ROBIN
+386	grappolo	1966	BUNCH
+387	crusca	2362	BRAN
+388	male_di_testa	3625	HEADACHE
 389	stradello		???	
 390	braciere		???	
-391	stolto		???	
+391	stolto	1518	STUPID
 392	ciabatte		???	
-393	gomitolo		???	
-394	noioso		???	
+393	gomitolo	1845	BALL
+394	noioso	905	BORING
 395	testa	1256	HEAD	2
 396	cisoie		???	
-397	sciocco		???	
+397	sciocco	1438	FOOL
 398	di_sguincio		???	
-399	lampo		???	
+399	lampo	1654	LIGHTNING
 400	allodola		???	
-401	nottola		???	
+401	nottola	1012	LATCH
 402	cinturino		???	
 403	ganzo		???	
-404	sbornia		???	
+404	sbornia		???
 405	agaiolo		???	
-406	balordo		???	
+406	balordo	1438	FOOL
 407	unguanno		???	
 408	greppo		???	
-409	boccia		???	
+409	boccia	1530	BOWL
 410	burischio		???	
 411	scimmia	1350	MONKEY	2
 412	vicolo		???	
 413	prete	852	PRIEST	2
-414	grembiule		???	
+414	grembiule	2046	APRON
 415	butto		???	
-416	luna_piena		???	
+416	luna_piena	3690	FULL MOON
 417	farina_dolce		???	
 418	ragazzo	1366	BOY	2
 419	uncinetto		???	
-420	fosso		???	
+420	fosso	2002	DITCH
 421	abete	1915	FIR	2
 422	vagabondo		???	
-423	macchia		???	
-424	sito		???	
-425	buzzo		???	
+423	macchia	519	SPOT
+424	sito	723	PLACE (POSITION)
+425	buzzo	1251	BELLY
 426	lumacone		???	
 427	covone		???	
 428	schiacciata		???	
-429	pulcino		???	
+429	pulcino	2512	CHICK
 430	grattugia		???	
 431	pulenda_dolce		???	
 432	carbonaio		???	
 433	formaggio	1569	CHEESE	2
 434	caldano		???	
-435	salciccia		???	
+435	salciccia	1874	SAUSAGE
 436	zazzera		???	
 437	fulminante		???	
-438	luna_crescente		???	
-439	acqua_cotta		???	
+438	luna_crescente	3816	WAXING MOON
+439	acqua_cotta	3362	BOILED WATER
 440	altalena	3101	SWING	2
 441	ciccioli		???	
 442	scorciatoia		???	
-443	governo		???	
+443	governo	815	GOVERNMENT
 444	nevischio		???	
-#	38/444	9%	
